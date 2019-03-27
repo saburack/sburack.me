@@ -1,8 +1,16 @@
 h1 {
     color: green;
+    text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
 .info {
     color: blueviolet;
+    text-align: center; 
     font-family: 'Courier New', Courier, monospace;
+}
+#dog {
+    max-width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
